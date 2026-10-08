@@ -9,6 +9,8 @@
 title                    : "Jingyan Chen (陈静妍)"
 description              : "PhD student "
 repository               : "JingyanChen730/jychen-homepage-new"
+url                      : "https://jingyanchen730.github.io"
+baseurl                  : "/jychen-homepage-new"
 google_scholar_stats_use_cdn : true
 
 # google analytics
