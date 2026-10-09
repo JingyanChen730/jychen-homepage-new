@@ -32,16 +32,42 @@ My research interest includes AI/ML-assisted quantum materials discovery and mul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2025</div><img src='images/H2O-OH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Control of magnetic transitions via interlayer engineering in ferroelectric H₂O–OH systems](https://doi.org/10.1038/s41467-025-60173-x)
+[Control of magnetic transitions via interlayer engineering in ferroelectric H<sub>2</sub>O–OH systems](https://doi.org/10.1038/s41467-025-60173-x)
 
-**Jingyan Chen**, Qiaoxiao Zhao, Meiling Xu*, Zijia Liu, Xuegao Hu, Jiaqi Feng, Xiaodong Zhou, Hong Jian Zhao, Baojie Feng*, Lan Chen, Yinwei Li*, Yanchao Wang*
+**Jingyan Chen**, Qiaoxiao Zhao, Meiling Xu, Zijia Liu, Xuegao Hu, Jiaqi Feng, Xiaodong Zhou, Hong Jian Zhao, Baojie Feng, Lan Chen, Yinwei Li, Yanchao Wang
 
 [**Project**](https://www.nature.com/articles/s41467-025-60173-x) · [PDF]( {{ '/files/H2O-OH.pdf' | relative_url }} )
-- This work investigates layer- and stacking-dependent magnetic transitions in H₂O–OH systems and reports the synthesis of H₂O–OH multilayers on Ag(111). 
+- This work investigates layer- and stacking-dependent magnetic transitions in H<sub>2</sub>O–OH systems and reports the synthesis of H<sub>2</sub>O–OH multilayers on Ag(111). 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2025</div><img src='images/CuMnP2Se6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Phase-transition-driven ferroic response in 2D CuMnP<sub>2</sub>Se<sub>6</sub> under ultra-low electric fields](https://doi.org/10.1038/s41467-025-67516-8)
+
+**Jingyan Chen**, Meiling Xu, Yuntao Jie, Jiaqi Feng, Xiaodong Zhou, Yanchao Wang, Yinwei Li
+
+[**Project**](https://www.nature.com/articles/s41467-025-67516-8) · <a href="{{ '/files/CuMnP2Se6.pdf' | relative_url }}">PDF</a>
+
+This work investigates electric-field-driven ferroic switching in CuMnP<sub>2</sub>Se<sub>6</sub>, including polarization reversal coupled with an antiferromagnetic-to-ferromagnetic transition under an ultra-low electric field.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Materials Letters 2022</div><img src='images/500x300.png' alt="Li3C2 paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Metal-Decoration-Free Li<sub>3</sub>C<sub>2</sub> Monolayer with Heptacoordinate Carbons as a Promising Hydrogen Storage Medium](https://doi.org/10.1021/acsmaterialslett.2c00254)
+
+**Jingyan Chen**, Shuyi Lin, Meiling Xu, Feilong Wang, Yejue Shao, Jian Hao, Yinwei Li
+
+[**Project**](https://pubs.acs.org/doi/10.1021/acsmaterialslett.2c00254) · <a href="{{ '/files/Li3C2.pdf' | relative_url }}">PDF</a>
+
+This work predicts a metal-decoration-free Li<sub>3</sub>C<sub>2</sub> monolayer for hydrogen storage. The material is predicted to store up to 8.2 wt% hydrogen, with hydrogen release near room temperature.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship for Graduate Students
