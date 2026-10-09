@@ -55,7 +55,7 @@ This work investigates electric-field-driven ferroic switching in CuMnP<sub>2</s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Materials Letters 2022</div><img src='images/500x300.png' alt="Li3C2 paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Materials Lett. 2022</div><img src='images/Li3C2.png' alt="Li3C2 paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Metal-Decoration-Free Li<sub>3</sub>C<sub>2</sub> Monolayer with Heptacoordinate Carbons as a Promising Hydrogen Storage Medium](https://doi.org/10.1021/acsmaterialslett.2c00254)
