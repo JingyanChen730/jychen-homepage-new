@@ -69,6 +69,18 @@ This work predicts a metal-decoration-free Li<sub>3</sub>C<sub>2</sub> monolayer
 </div>
 </div>
 
+- Meiling Xu, Zitong Wu, **Jingyan Chen**, Zhuohang Xie, Yan Liu, Shicong Ding, Yinwei Li, Guoan Tai, Yanchao Wang. [Synthesis and Anisotropic Memristive Behavior of Borophene Nanosheets](https://doi.org/10.1002/anie.202416041). *Angewandte Chemie International Edition*, 2025. [PDF](/jychen-homepage-new/files/borophene.pdf)
+
+- Shuyi Lin, **Jingyan Chen**, Bi Zhang, Jian Hao, Meiling Xu, Yinwei Li. [Lanthanium nitride LaN<sub>9</sub> featuring azide units: the first metal nine-nitride as a high-energy-density material](https://doi.org/10.1039/D3CP06155H). *Physical Chemistry Chemical Physics*, 2024. [PDF](/jychen-homepage-new/files/LaN.pdf)
+
+- Jiaqi Feng, Xiaodong Zhou, **Jingyan Chen**, Meiling Xu, Xiuxian Yang, Yinwei Li. [Ferroelectric antiferromagnetic lifting of spin-valley degeneracy](https://doi.org/10.1103/jyq4-d4gs). *Physical Review B*, 2025, **111**, 214446.
+
+- Wan Zhao, Xiaodong Zhou, Tao Zhu, Jie Chen, Hang Li, **Jingyan Chen**, Meiling Xu, Wenhong Wang. [Electric-Field-Controlled Interconversion of Antiferromagnetic States in a Two-Dimensional Antiferroelectric Halide Perovskite](https://doi.org/10.1002/advs.77147). *Advanced Science*, 2026, e77147. [PDF](/jychen-homepage-new/files/W-Zhao2026_AS.pdf)
+
+- Yuntao Jie, **Jingyan Chen**, Meiling Xu, Yinwei Li. [Strain-tunable ferromagnetic to antiferromagnetic and half-metallic to ferroelectric phase transitions in a 2D bimetallic oxyhalide](https://doi.org/10.1063/5.0285737). *Applied Physics Letters*, 2025, **127**(6), 062903. [PDF](/jychen-homepage-new/files/NbMnO2Cl4.pdf)
+
+- Yiming Zhang, **Jingyan Chen**, Jian Hao, Meiling Xu, Yinwei Li. [Conventional high-temperature superconductivity in σ-band driven metallized two-dimensional metal borocarbides](https://doi.org/10.1103/PhysRevB.110.064513). *Physical Review B*, 2024, **110**, 064513.
+
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship for Graduate Students
 
