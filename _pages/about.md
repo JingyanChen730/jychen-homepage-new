@@ -19,25 +19,25 @@ redirect_from:
 
 👋 Welcome to my homepage. 
 
-I am a first-year Ph.D. student at the Key Laboratory of Quantum Materials and Devices of Ministry of Education, School of Physics, Southeast University, under the supervision of Prof. Shuai Dong. Prior to this, I earned both my B.S. and M.S. degrees from Jiangsu Normal University.
+I am a first-year Ph.D. student at the [Key Laboratory of Quantum Materials and Devices of Ministry of Education, School of Physics, Southeast University](https://physics.seu.edu.cn/sdong/), under the supervision of Prof. Shuai Dong. Prior to this, I earned both my B.S. and M.S. degrees from Jiangsu Normal University, under the supervision of Prof. Meiling Xu and Prof. Yinwei Li.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes AI/ML-assisted quantum materials discovery and multiferroicity. Feel free to reach out for discussions or collaborations.
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Joined the PQM and IQM Lab!!
+- *2026.09*: &nbsp;🎉🎉 Joined the [PQM](https://physics.seu.edu.cn/sdong/) and [IQM](https://www.iqmlab.org/) Lab!!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2025</div><img src='images/H2O-OH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Control of magnetic transitions via interlayer engineering in ferroelectric H₂O–OH systems](https://doi.org/10.1038/s41467-025-60173-x)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jingyan Chen**, Qiaoxiao Zhao, Meiling Xu*, Zijia Liu, Xuegao Hu, Jiaqi Feng, Xiaodong Zhou, Hong Jian Zhao, Baojie Feng*, Lan Chen, Yinwei Li*, Yanchao Wang*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://www.nature.com/articles/s41467-025-60173-x) · [PDF]( {{ '/files/H2O-OH.pdf' | relative_url }} )
+- This work investigates layer- and stacking-dependent magnetic transitions in H₂O–OH systems and reports the synthesis of H₂O–OH multilayers on Ag(111). 
 </div>
 </div>
 
